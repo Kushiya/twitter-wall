@@ -1,2 +1,2 @@
 # twitter-wall
-Twitter wall for specific topic
+Twitter wall for specific hashtags, mentions, users and trendings
